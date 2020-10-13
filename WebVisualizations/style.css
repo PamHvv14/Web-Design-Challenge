@@ -55,6 +55,7 @@ body{
 .pic{
     border: 3px solid rgb(81, 175, 160);
 }
+
 /*STYLE*/
 .navbar{
     padding-top:0px;
@@ -97,7 +98,6 @@ tr>td:nth-child(9),
 tr>td:nth-child(10) {
     text-align: right;
 }
-
 
 /*SMALL*/
 @media(max-width:767px){
